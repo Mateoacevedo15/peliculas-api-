@@ -10,6 +10,26 @@ body {
 	color: #140718;
 }
 
+h1 {
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+  font-family: 'Montserrat';
+}
+
+header{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.cabeceraTitulo {
+  background: #140718;
+  color: #E6E0F8;
+  padding: 1px;
+}
+
+
 .contenedor {
 	width: 90%;
 	max-width: 1000px;
@@ -38,7 +58,7 @@ body {
 .paginacion {
 	position: fixed;
 	bottom: 0;
-	background: #pink;
+	background: pink;
 	width: 100%;
 	display: flex;
 	justify-content: center;

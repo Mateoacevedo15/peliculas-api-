@@ -63,4 +63,3 @@ const cargarPeliculas = async() => {
 }
 
 cargarPeliculas();
-//pagina estrictamente hecha con fines educativos, derechos de todas las imagenes son cedidos a su dueño
